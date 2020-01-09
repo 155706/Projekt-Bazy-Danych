@@ -1,7 +1,7 @@
 1. System ewidencji sprzętu w firmie
 2. System będzie zajmował się gromadzeniem i dostarczaniem informacji o urządzeniach w firmie, ich przynależności do użytkowników, którzy należą do konkretnych lokalizacji i działów.
 3. Za pomocą tej bazy danych będzie można przede wszystkim sprawdzać sprzęt grupując po różnych kryteriach (typ, producent, przynależność itp.), jak również przypisanie sprzętu do uzytkowników należących do konkretnych działów i lokalizacji.
-Możliwe będzie wprowadzanie, usuwanie i modyfikacja informacji o sprzęcie, jak również przypisywanie go użytkownikom, zmianyw przypisaniach.
+Możliwe będzie wprowadzanie, usuwanie i modyfikacja informacji o sprzęcie, jak również przypisywanie go użytkownikom, zmiany w przypisaniach.
 Wstępnie przewidywane tabele:
 Sprzęt, uzytkownicy, działy, lokalizacje.
 4. Projektem będzie relacyjna baza danych zarządzana przez system MySQL, który obsługiwany będzie narzędziem PHPMyAdmin. Miałem styczność z tym systemem i narzędziem w szkole średniej i to przeważyło szalę podczas wyboru.
