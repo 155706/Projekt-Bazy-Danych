@@ -1,0 +1,8 @@
+2020/01/09
+Spis tabel:
+1. Tabela Sprzęt:
+    Tabela przechowuje informacje o urządzeniach oraz ich przypisaniu do użytkownika.
+2. Tabela Użytkownik:
+    Tabela przechowuje informacje o uzytkownikach oraz ich przynależności do działów.
+3. Tabela Dział:
+    Spis działów.
