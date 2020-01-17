@@ -1,1 +1,0 @@
-# Bartlomiej-Kulig
